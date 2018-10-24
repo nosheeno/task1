@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+#info{
+    position: relative;
+    padding-top: 7%;
+}
+.name h1{
+    font: 1em sans-serif;
+    
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;    
+}
+.name p{
+ position: relative;
+ font-family: cursive;
+margin-left: 30%;
+margin-right: 20%;
+color: blue;
+line-height: 1.5rem;
+text-shadow: 1rem khaki;
+display: inline-block;
+
+ 
+
+}
+.name img{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    margin-left: 40%;
+}
